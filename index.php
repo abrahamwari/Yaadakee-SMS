@@ -106,10 +106,10 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong><a href="https://1sourcecodr.blogspot.com/">1 Source code</a>.</strong>
-    Subscribe
+    <strong><a href="https://github.com/abrahamwari/Yaadakee-SMS">Github Repo link</a>.</strong>
+    
     <div class="float-right d-none d-sm-inline-block">
-      <b>Online Survey System</b>
+      <b>Cloud based Survey Management System</b>
     </div>
   </footer>
 </div>

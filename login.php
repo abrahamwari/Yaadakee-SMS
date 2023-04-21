@@ -25,9 +25,11 @@ header("location:index.php?page=home");
 	    height: calc(100%);
 	    position: fixed;
 	    top:0;
-	    left: 0
-	    /*background: #007bff;*/
+	    left: 0;
+	   background-image: #3a7694;
+	   background-repeat: no-repeat;
 	}
+
 	main#main{
 		width:100%;
 		height: calc(100%);
@@ -36,7 +38,7 @@ header("location:index.php?page=home");
 
 </style>
 
-<body class="bg-dark">
+<body  class="bg-dark">
 
 
   <main id="main" >

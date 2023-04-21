@@ -62,6 +62,26 @@
                   <p>Add New</p>
                 </a>
               </li>
+
+              <li class="nav-item">
+                <a href="./index.php?page=create_survey" class="nav-link nav-new_survey tree-item">
+                  <i class="fas fa-angle-right nav-icon"></i>
+                  <p>Create New</p>
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="./index.php?page=uisur" class="nav-link nav-new_survey tree-item">
+                  <i class="fas fa-angle-right nav-icon"></i>
+                  <p>Create New</p>
+                </a>
+              </li>
+
+
+
+
+
+
               <li class="nav-item">
                 <a href="./index.php?page=survey_list" class="nav-link nav-survey_list tree-item">
                   <i class="fas fa-angle-right nav-icon"></i>
